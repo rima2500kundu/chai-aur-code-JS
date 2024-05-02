@@ -57,8 +57,8 @@ let y = ++x;
 
 // prefix & postfix decrements
 let a = 50;
-// let b = a++;
-let b = ++a;
+let b = a++;
+// let b = ++a;
 console.log(b);
 
 
